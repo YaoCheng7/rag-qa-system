@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+vector_store/
+data/processed/*
+!data/processed/.gitkeep
+.pytest_cache/
+*.egg-info/
+.DS_Store
+*.log
